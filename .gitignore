@@ -1,0 +1,9 @@
+build/
+out/
+.vs/
+CMakeUserPresets.json
+CMakeCache.txt
+*.user
+*.obj
+*.pdb
+gui_config.json
